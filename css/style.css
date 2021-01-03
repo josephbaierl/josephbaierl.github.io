@@ -6,7 +6,7 @@ html {
 }
 body {
   margin: 0 auto;
-  overflow: auto; overflow-x: hidden;
+  overflow-x: hidden;
 }
 article,
 aside,

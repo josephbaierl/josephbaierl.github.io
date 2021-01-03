@@ -256,7 +256,7 @@ hr {
   border-top: 1px solid #34495e;
 }
 .sr-only {
-  position: absolute;
+  position: relative;
   width: 1px;
   height: 1px;
   margin: -1px;
@@ -1639,7 +1639,7 @@ select[multiple].input-lg {
   padding-right: 42.5px;
 }
 .has-feedback .form-control-feedback {
-  position: absolute;
+  position: relative;
   top: 25px;
   right: 0;
   display: block;

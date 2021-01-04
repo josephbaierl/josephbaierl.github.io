@@ -2558,6 +2558,14 @@ input[type="button"].btn-block {
   color: #fff !important;
   text-decoration: underline;
 }
+.work h4,
+.work p {
+	color: #fff !important;
+}
+.work a {
+	color: #fff !important;
+	text-decoration: underline;
+}
 .work-together {
   background: -webkit-linear-gradient(
       rgba(52, 73, 94, 0.8),

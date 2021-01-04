@@ -372,6 +372,7 @@ h3,
 h4,
 .h4 {
   font-size: 18px;
+  color: #fff;
 }
 h5,
 .h5 {
@@ -2557,14 +2558,6 @@ input[type="button"].btn-block {
 .work a {
   color: #fff !important;
   text-decoration: underline;
-}
-.work h4,
-.work p {
-	color: #fff !important;
-}
-.work a {
-	color: #fff !important;
-	text-decoration: underline;
 }
 .work-together {
   background: -webkit-linear-gradient(
